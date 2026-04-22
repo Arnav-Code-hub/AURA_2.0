@@ -1,0 +1,346 @@
+[
+  {
+    "i": 1,
+    "title": "Please enter your name",
+    "type": 0,
+    "fieldId": 1195228665,
+    "options": []
+  },
+  {
+    "i": 2,
+    "title": "To what age group do you belong ?",
+    "type": 2,
+    "fieldId": 643035921,
+    "options": [
+      "0-17",
+      "18-24",
+      "25-44",
+      "45 - 60",
+      "60+"
+    ]
+  },
+  {
+    "i": 3,
+    "title": "What gender do you best associate yourself with ?",
+    "type": 2,
+    "fieldId": 980321187,
+    "options": [
+      "Male",
+      "Female",
+      "Prefer not to say",
+      ""
+    ]
+  },
+  {
+    "i": 4,
+    "title": "What is the highest educational qualification you have attained ?",
+    "type": 2,
+    "fieldId": 14037995,
+    "options": [
+      "Completed secondary schooling",
+      "Completed senior secondary schooling",
+      "Diploma/Vocational training",
+      "Bachelor's degree",
+      "Master's degree",
+      "Doctorate",
+      ""
+    ]
+  },
+  {
+    "i": 5,
+    "title": "What is your occupation ?",
+    "type": 2,
+    "fieldId": 1298383134,
+    "options": [
+      "Student",
+      "Employed - part time",
+      "Employed - full time",
+      "Self-employed",
+      "Academic/Researcher",
+      "Unemployed",
+      "Retired",
+      ""
+    ]
+  },
+  {
+    "i": 6,
+    "title": "Approximately how much time do you spend on social media in a day ?",
+    "type": 2,
+    "fieldId": 124612769,
+    "options": [
+      "Less than 1 hour",
+      "1 - 3 hours",
+      "3 - 6 hours",
+      "6+ hours"
+    ]
+  },
+  {
+    "i": 7,
+    "title": "  Which of the following social media platforms do you frequently use?  ",
+    "type": 4,
+    "fieldId": 117915253,
+    "options": [
+      "Instagram",
+      "Reddit",
+      "X (formerly twitter)",
+      "Youtube",
+      "Telegram/Whatsapp",
+      ""
+    ]
+  },
+  {
+    "i": 8,
+    "title": "How often do you engage with memes online , or do you mostly see them through your social media feed  ?",
+    "type": 2,
+    "fieldId": 1219664527,
+    "options": [
+      "I actively search for memes",
+      "I mostly see them in my feed",
+      "Both",
+      "Rarely engage with memes"
+    ]
+  },
+  {
+    "i": 9,
+    "title": "What categories of memes do you consume most ?",
+    "type": 4,
+    "fieldId": 1135190730,
+    "options": [
+      "Political",
+      "Social issues",
+      "Entertainment",
+      "Cultural",
+      "Events-related",
+      "Animemes",
+      "Reactions",
+      ""
+    ]
+  },
+  {
+    "i": 10,
+    "title": "How do you usually interact with memes on social media ?",
+    "type": 4,
+    "fieldId": 1444296062,
+    "options": [
+      "I  like or react to them",
+      "I comment on them",
+      "I share them",
+      "Sometimes I do all",
+      "I only view them without interacting"
+    ]
+  },
+  {
+    "i": 11,
+    "title": "Do you verify the accuracy of memes before sharing it ?",
+    "type": 2,
+    "fieldId": 1791764170,
+    "options": [
+      "Yes I always verify the accuracy of memes before sharing them",
+      "Yes I occasionally verify the accuracy of memes before sharing them",
+      "No I do not generally verify the accuracy of memes before sharing them",
+      "I do not share memes"
+    ]
+  },
+  {
+    "i": 12,
+    "title": "To what extent do you believe memes can influence your perception of issues or narrative ",
+    "type": 2,
+    "fieldId": 1234655898,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 13,
+    "title": "Has a meme ever changed your perception about a social or political issue ?",
+    "type": 2,
+    "fieldId": 1983655635,
+    "options": [
+      "Yes, it significantly changed my perception",
+      "Yes, it somewhat changed my perception",
+      "No, it did not change my perception",
+      "I don’t engage with memes on social or political issues"
+    ]
+  },
+  {
+    "i": 14,
+    "title": "Has a meme increased your interest in discussing the topic related to it, with people you know  ?",
+    "type": 2,
+    "fieldId": 2010043083,
+    "options": [
+      "Yes , definitely",
+      "Yes , somewhat",
+      "No , not really",
+      "No , never"
+    ]
+  },
+  {
+    "i": 15,
+    "title": "Do you think memes contribute to polarization or push  people towards  extreme opinions , leaving little room for moderate views ?",
+    "type": 2,
+    "fieldId": 1719130868,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 16,
+    "title": "Do you think memes frame issues differently than  traditional media and exaggerate narratives ?",
+    "type": 2,
+    "fieldId": 1457621,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 17,
+    "title": "Do you think memes reduce the seriousness of important social and political issues ?",
+    "type": 2,
+    "fieldId": 1737513919,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 18,
+    "title": "  Do you think memes create a lasting impression of events or issues?  ",
+    "type": 2,
+    "fieldId": 1371786874,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 19,
+    "title": "Do you believe memes manipulate information for humorous effect?",
+    "type": 2,
+    "fieldId": 69389078,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 20,
+    "title": "Do you believe satire memes are clearly distinguishable from factual content ?",
+    "type": 2,
+    "fieldId": 1576029930,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 21,
+    "title": "Have you ever believed information from a meme that later turned out false ?",
+    "type": 2,
+    "fieldId": 1287817140,
+    "options": [
+      "Yes it has happened to me",
+      "No it has never happened to me ?",
+      "Not sure , i don't remember"
+    ]
+  },
+  {
+    "i": 22,
+    "title": "Do you believe memes contribute to online activism and create echo chambers ?",
+    "type": 2,
+    "fieldId": 634092518,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 23,
+    "title": "Do memes influence how you judge public figures ?",
+    "type": 2,
+    "fieldId": 404708019,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 24,
+    "title": "Do you think memes are more emotionally impactful than news articles ?",
+    "type": 2,
+    "fieldId": 715192729,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly Disagree"
+    ]
+  },
+  {
+    "i": 25,
+    "title": "Do you believe memes are often very biased ?",
+    "type": 2,
+    "fieldId": 1407460238,
+    "options": [
+      "Strongly agree",
+      "Agree",
+      "Neutral",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "i": 26,
+    "title": "(Optional) Describe a meme that changed your perception of an issue",
+    "type": 1,
+    "fieldId": 1461690793,
+    "options": []
+  },
+  {
+    "i": 27,
+    "title": "(Optional) In what ways do memes shape media narratives ?",
+    "type": 1,
+    "fieldId": 1036826585,
+    "options": []
+  },
+  {
+    "i": 28,
+    "title": "(Optional) Do you believe meme creators should be held accountable for spreading misinformation ?",
+    "type": 2,
+    "fieldId": 306937616,
+    "options": [
+      "Yes",
+      "No"
+    ]
+  }
+]

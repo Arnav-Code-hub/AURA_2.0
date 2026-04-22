@@ -1,0 +1,28 @@
+========== SECTION 1: Section 1 ==========
+  Q1: Name
+       Type: 0  |  EntryID: entry.null
+
+  Q2: What type of student are you?
+       Type: 2  |  EntryID: entry.The Last-Night Warrior,,,,0,The Attendance Strategist,,,,0,The Front Bench Intellectual,,,,0,The Silent Observer,,,,0,The "Group Project Survivor",,,,0
+
+  Q3: What motivates you more?
+       Type: 2  |  EntryID: entry.Grades,,,,0,Money,,,,0,Passion,,,,0,Parental Pressure,,,,0,Vibes,,,,0
+
+  Q4: How many hours do you spend on your phone daily?
+       Type: 2  |  EntryID: entry.<3 Hours,,,,0,3-5 Hours,,,,0,5-8 Hours,,,,0,8+ Hours,,,,0
+
+  Q5: What distracts you more while studying?
+       Type: 2  |  EntryID: entry.Instagram,,,,0,YouTube,,,,0,Gaming,,,,0,Texting,,,,0,Overthinking,,,,0
+
+  Q6: Who do you talk to when stressed?
+       Type: 2  |  EntryID: entry.Friends,,,,0,Partner,,,,0,Family,,,,0,No One,,,,0,Gym,,,,0
+
+  Q7: What is your biggest college fear?
+       Type: 2  |  EntryID: entry.Backlogs,,,,0,Placements,,,,0,Public Speaking,,,,0,Being Average,,,,0,Running out of money,,,,0
+
+  Q8: Rate your current stress level
+       Type: 18  |  EntryID: entry.1,2,3,4,5,6,7,8,9,10
+
+  Q9: What is your dream life after graduation?
+       Type: 2  |  EntryID: entry.Corporate Job,,,,0,Startup,,,,0,Higher Studies,,,,0,Content Creater,,,,0,Still Figuring Out,,,,0
+

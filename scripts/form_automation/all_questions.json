@@ -1,0 +1,26 @@
+--- Item 0 ---
+[715263722,"Name",null,0,[[411441446,null,1]],null,null,null,null,null,null,[null,"Name"]]
+
+--- Item 1 ---
+[1070551445,"What type of student are you?",null,2,[[1868368262,[["The Last-Night Warrior",null,null,null,0],["The Attendance Strategist",null,null,null,0],["The Front Bench Intellectual",null,null,null,0],["The Silent Observer",null,null,null,0],["The \"Group Project Survivor\"",null,null,null,0]],1,null,null,null,null,null,0]],null,null,null,null,null,null,[null,"What type of student are you?"]]
+
+--- Item 2 ---
+[141235220,"What motivates you more?",null,2,[[1638358145,[["Grades",null,null,null,0],["Money",null,null,null,0],["Passion",null,null,null,0],["Parental Pressure",null,null,null,0],["Vibes",null,null,null,0]],1,null,null,null,null,null,0]],null,null,null,null,null,null,[null,"What motivates you more?"]]
+
+--- Item 3 ---
+[1095341850,"How many hours do you spend on your phone daily?",null,2,[[1708352285,[["<3 Hours",null,null,null,0],["3-5 Hours",null,null,null,0],["5-8 Hours",null,null,null,0],["8+ Hours",null,null,null,0]],1,null,null,null,null,null,0]],null,null,null,null,null,null,[null,"How many hours do you spend on your phone daily?"]]
+
+--- Item 4 ---
+[27721119,"What distracts you more while studying?",null,2,[[1874860011,[["Instagram",null,null,null,0],["YouTube",null,null,null,0],["Gaming",null,null,null,0],["Texting",null,null,null,0],["Overthinking",null,null,null,0]],1,null,null,null,null,null,0]],null,null,null,null,null,null,[null,"What distracts you more while studying?"]]
+
+--- Item 5 ---
+[1468236035,"Who do you talk to when stressed?",null,2,[[358492503,[["Friends",null,null,null,0],["Partner",null,null,null,0],["Family",null,null,null,0],["No One",null,null,null,0],["Gym",null,null,null,0]],1,null,null,null,null,null,0]],null,null,null,null,null,null,[null,"Who do you talk to when stressed?"]]
+
+--- Item 6 ---
+[1047972659,"What is your biggest college fear?",null,2,[[873451128,[["Backlogs",null,null,null,0],["Placements",null,null,null,0],["Public Speaking",null,null,null,0],["Being Average",null,null,null,0],["Running out of money",null,null,null,0]],1,null,null,null,null,null,0]],null,null,null,null,null,null,[null,"What is your biggest college fear?"]]
+
+--- Item 7 ---
+[1884867227,"Rate your current stress level",null,18,[[241261086,[["1"],["2"],["3"],["4"],["5"],["6"],["7"],["8"],["9"],["10"]],1,null,null,null,null,null,null,null,null,null,null,null,[1]]],null,null,null,null,null,null,[null,"Rate your current stress level"]]
+
+--- Item 8 ---
+[556702109,"What is your dream life after graduation?",null,2,[[2024779498,[["Corporate Job",null,null,null,0],["Startup",null,null,null,0],["Higher Studies",null,null,null,0],["Content Creater",null,null,null,0],["Still Figuring Out",null,null,null,0]],1,null,null,null,null,null,0]],null,null,null,null,null,null,[null,"What is your dream life after graduation?"]]
