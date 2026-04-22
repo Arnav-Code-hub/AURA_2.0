@@ -1,16 +1,19 @@
-# AI Outfit Recommender
+# AURA 2.0 - AI Outfit Recommender
 
 A modern, AI-powered outfit recommendation platform with 3D visualization.
 
 ## Project Structure
 
 - `web/`: The Next.js frontend application.
+- `v2/`: AURA 2.0 Next.js application.
+- `vericamp/`: Vericamp application.
+- `scripts/`: Assorted automation and bot scripts.
 
 ## Getting Started
 
-1. Navigate to the web directory:
+1. Navigate to the desired application directory (e.g. `web` or `v2`):
    ```bash
-   cd web
+   cd v2
    ```
 
 2. Install dependencies (if you haven't already):
